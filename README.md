@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/CallebeDelfino">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=callebedelfino&show_icons=true&theme=dark"/>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 </div>
 
 <div style="display: inline_block"><br>
